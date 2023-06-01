@@ -3,14 +3,14 @@
 }
 
 .bgimage {
-    height: 100vh;
+    height: 80vh;
     background: url('https://scontent.fsgn5-11.fna.fbcdn.net/v/t39.30808-6/343395950_898955478075332_6665096372240084686_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Kg5q9HfTDuIAX_L6PIB&_nc_ht=scontent.fsgn5-11.fna&oh=00_AfB4RnGwqsyjlrT-BeqrGqN39WFBZ4lhEszY8AufGGRSIA&oe=647E2B2D');
     background-size: cover;
     position: relative;
 }
 
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 5.5rem;
 }
 
 .hero_desc {
@@ -20,8 +20,8 @@
 .hero-text {
     text-align: center;
     position: absolute;
-    top: 60%;
-    left: 40%;
+    top: 40%;
+    left: 60%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: rgb(251, 255, 0);
 }
